@@ -11,7 +11,8 @@ Model : The central component of the pattern. It is the application's dynamic da
 View : Any representation of information such as a chart, diagram or table. Multiple views of the same information are possible, such as a bar chart for management and a tabular view for accountants
 
 Controller : Accepts input and converts it to commands for the model or view.
-
+# About Mongoose connection:
+Mongoose: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose
 # About Express-local LIibrary:
 
 https://github.com/mdn/express-locallibrary-tutorial
